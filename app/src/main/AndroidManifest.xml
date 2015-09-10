@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.madeeh.controls" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".TextViewControl"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".EditTextControl"
+            android:label="@string/title_activity_edit_text_control" >
+
+
+
+        </activity>
+        <activity
+            android:name=".AutoCompleteTextViewControl"
+            android:label="@string/title_activity_auto_complete_text_view_control" >
+
+
+        </activity>
+        <activity
+            android:name=".ImageButtonControl"
+            android:label="@string/title_activity_image_button_control" >
+        </activity>
+        <activity
+            android:name=".CheckBoxControl"
+            android:label="@string/title_activity_check_box_control" >
+        </activity>
+        <activity
+            android:name=".ToggleButtonControl"
+            android:label="@string/title_activity_toggle_button_control" >
+        </activity>
+        <activity
+            android:name=".RadioGroupControl"
+            android:label="@string/title_activity_radio_group_control" >
+        </activity>
+        <activity
+            android:name=".ProgressDialogControl"
+            android:label="@string/title_activity_progress_dialog_control" >
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SpinnerControl"
+            android:label="@string/title_activity_spinner_control" >
+        </activity>
+        <activity
+            android:name=".TimePickerControl"
+            android:label="@string/title_activity_time_picker_control" >
+        </activity>
+
+        <activity
+            android:name=".ListViewControl"
+            android:label="@string/title_activity_list_view_control" >
+
+
+
+        </activity>
+    </application>
+
+</manifest>

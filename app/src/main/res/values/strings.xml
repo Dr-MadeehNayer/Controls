@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Controls</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_text_control">EditTextControl</string>
+    <string name="title_activity_auto_complete_text_view_control">AutoCompleteTextViewControl</string>
+    <string name="title_activity_image_button_control">ImageButtonControl</string>
+    <string name="title_activity_check_box_control">CheckBoxControl</string>
+    <string name="title_activity_toggle_button_control">ToggleButtonControl</string>
+    <string name="title_activity_radio_group_control">RadioGroupControl</string>
+    <string name="title_activity_progress_dialog_control">ProgressDialogControl</string>
+    <string name="title_activity_spinner_control">SpinnerControl</string>
+    <string name="title_activity_time_picker_control">TimePickerControl</string>
+    <string name="title_activity_date_picker_control">DatePickerControl</string>
+    <string name="title_activity_tab_control">TabControl</string>
+    <string name="hi">Hi</string>
+    <string name="title_activity_list_view_control">ListViewControl</string>
+
+</resources>
